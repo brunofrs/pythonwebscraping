@@ -10,7 +10,8 @@ O que precisa ser feito para o código funcionar?
 
 F12(acessar console do desenvolvedor) > Rede > Clique com botão direito na requisição da página, no meu caso era index.html > copiar > Copiar tudo como cURL (bash). 
 
-![image](https://user-images.githubusercontent.com/52774583/204835396-55358985-51f5-42d6-9483-60487d7363fd.png)
+![image](https://curlconverter.com/images/chrome.webp)
+
 
 Após copiar o conteúdo, vamos usar o site https://curlconverter.com/python/ para converter a saída do comando cURL para python. Após a conversão, copie o conteúdo e cole no arquivo do código python. 
 
