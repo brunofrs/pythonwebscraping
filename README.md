@@ -20,3 +20,5 @@ Observações:
 - No caso do meu roteador, as informações do sistema eram passadas através de um link com conteúdo em JSON para o Front-end, que montava a interface WEB de forma mais rápida transformando o conteúdo todo em HTML logo após. Então ao invés de fazer um scraping utilizando as tags HTML onde estavam armazenados os valores, informei diretamente a URL onde o Back-end processava o JSON com todas as informações necessárias para o retorno dos dados ser mais eficiente.
 
 - Caso esse código seja utilizado por terceiros, é necessário modelar ele de acordo com a interface de sua escolha, caso contrário não irá funcionar.
+
+- Aviso: O comando copiado pode conter cookies ou outros dados confidenciais. Tenha cuidado se você estiver compartilhando o comando com outras pessoas, enviar a alguém seu cookie para um site é como enviar sua senha.
