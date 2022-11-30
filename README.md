@@ -12,6 +12,8 @@ F12(acessar console do desenvolvedor) > Rede > Clique com botão direito na requ
 
 ![image](https://user-images.githubusercontent.com/52774583/204835396-55358985-51f5-42d6-9483-60487d7363fd.png)
 
+Após copiar o conteúdo, vamos usar o site https://curlconverter.com/python/ para converter a saída do comando cURL para python. Após a conversão, copie o conteúdo e cole no arquivo do código python. 
+
 Observações:
 
 - No caso do meu roteador, as informações do sistema eram passadas através de um link com conteúdo em JSON para o Front-end, que montava a interface WEB de forma mais rápida transformando o conteúdo todo em HTML logo após. Então ao invés de fazer um scraping utilizando as tags HTML onde estavam armazenados os valores, informei diretamente a URL onde o Back-end processava o JSON com todas as informações necessárias para o retorno dos dados ser mais eficiente.
